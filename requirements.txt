@@ -6,7 +6,4 @@ python-dotenv
 Pillow
 requests
 gunicorn
-transformers
-torch
-torchvision
-torchaudio
+
