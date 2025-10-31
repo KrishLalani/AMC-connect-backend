@@ -1,3 +1,12 @@
-firebase-admin 
-flask
-flask_cors
+Flask
+Flask-Cors
+firebase-admin
+google-generativeai
+python-dotenv
+Pillow
+requests
+gunicorn
+transformers
+torch
+torchvision
+torchaudio
